@@ -1,0 +1,12 @@
+2026-08-10T08:05:05.544521 Possible service video found: 'Thrasher || Finding God in the Music 2026' (id: 1zPRLc7-n8Q).
+Watch: https://www.youtube.com/watch?v=1zPRLc7-n8Q
+To download it, run: python3 confirm_download.py 1zPRLc7-n8Q
+2026-08-10T08:05:06.857818 Skipped 'I'm A Song || Finding God in the Music 2026': already flagged the newest service video
+2026-08-10T08:05:08.626824 Skipped 'In the Company of Angels || Pastor Brian Zahnd': already flagged the newest service video
+2026-08-10T08:05:10.129389 Skipped 'Depart from Me || Pastor Brian Zahnd': already flagged the newest service video
+2026-08-10T08:05:11.584961 Skipped 'The Tears of Jesus || Pastor Brian Zahnd': already flagged the newest service video
+2026-08-31T08:00:40.950872 Possible service video found: 'COEXIST (I Will Bless The Lord At All Times?) || Finding God In The Music 2026' (id: dTohxlKVxmA).
+Watch: https://www.youtube.com/watch?v=dTohxlKVxmA
+To download it, run: python3 confirm_download.py dTohxlKVxmA
+2026-08-31T08:00:42.385407 Skipped 'Kansas City || Finding God In The Music 2026': already flagged the newest service video
+2026-08-31T08:00:43.743033 Skipped 'Into the Mystic || Finding God in the Music 2026': already flagged the newest service video

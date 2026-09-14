@@ -1,0 +1,11 @@
+{
+  "channel_url": "https://www.youtube.com/WOLCTV/videos",
+  "title_keywords": [],
+  "min_duration_minutes": 10,
+  "auto_download": false,
+  "match_strategy": "newest",
+  "match_window_days": 0,
+  "output_dir": "~/Library/Mobile Documents/com~apple~CloudDocs/Videos/WOLC Service Videos",
+  "sermons_root": "Sermons",
+  "max_playlists_to_scan": 25
+}

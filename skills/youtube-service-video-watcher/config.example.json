@@ -1,0 +1,11 @@
+{
+  "channel_url": "https://www.youtube.com/@YourChurch/videos",
+  "title_keywords": [],
+  "min_duration_minutes": 10,
+  "auto_download": true,
+  "match_strategy": "newest",
+  "match_window_days": 0,
+  "output_dir": "REPLACE WITH THE CHURCH'S PAST SERMONS FOLDER IN FILES",
+  "sermons_root": "",
+  "max_playlists_to_scan": 25
+}
